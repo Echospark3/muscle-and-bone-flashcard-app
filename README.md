@@ -13,15 +13,14 @@
 UI Service
 
 #### Service Layer
-csvservice
-anatomyservice
-anatomypart
-anatomytype
-main
-question
-questionservice
-score
+- csvservice
+- anatomyservice
+- main
+- questionservice
 #### Data Objects
 - muscles_and_bones_data
 - question_list
+- anatomytype
+- question
+- anatomypart
 - score
