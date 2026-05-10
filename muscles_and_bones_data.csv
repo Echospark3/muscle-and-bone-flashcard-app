@@ -1,0 +1,33 @@
+AnatomyType,Name,Location,Movement,Definition,BoneType
+M,Quadricep,Front of thigh,Extension,The greater extensor muscle of the front of the thigh that is divided into four parts,
+M,Bicep,Front of upper arm,Flexion,The large flexor muscle of the front of the upper arm,
+M,Hamstring,Back of thigh,"Extension, Flexion",Any of three muscles at the back of the thigh that function to flex and rotate the leg and extend the thigh,
+M,Triceps,Back of upper arm,Extension,The large muscle at the back of the arm,
+M,Gastrocnemius,Back of lower leg,Plantar flexion,The outer calf muscle that goes from the back of the knee to the heel,
+M,Deltoid,Shoulder,"Abduction, Flexion, Extension",A large triangular muscle that covers the shoulder joint and serves to raise the arm laterally,
+M,Gluteus,Buttocks,"Extension, Rotation",Any of the large muscles of the buttocks,
+M,Mastoid,Front of neck,"Rotation, Flexion",A muscle in the head that helps move the head,
+M,Trapezius,Upper back and neck,"Abduction, Adduction",A large muscle between the head and neck,
+M,Pectorals,Upper front chest,"Adduction, Flexion",Either of two large muscles in the chest that help move the shoulder and upper arm,
+M,Intercostals,Mid-section (between ribs),"Inhalation, Exhalation, Stabilization",Any of the short muscles that extend between the ribs filling in most of the intervals between them and serving to move the ribs in respiration,
+M,Rectus Abdominus,Front mid-section,Exhalation,A pair of muscles located along the midline of the abdominal region,
+M,Latissimus Dorsi,Lower-mid back,"Adduction, Extension, Rotation","A broad flat superficial muscle chiefly of the middle and lower back that extends, adducts, and rotates the arm medially",
+B,Femur,Thigh,,The proximal bone of the hind or lower limb that extends from the hip to the knee,Long bone
+B,Tibia,Front of lower leg,,The inner and usually larger of the two bones of the lower limb between the knee and ankle,Long bone
+B,Fibula,Back/side of lower leg,,The outer and usually smaller of the two bones between the knee and ankle,Long bone
+B,Tarsals,Ankle,,A tarsal part (such as a bone or cartilage),Short bone
+B,Metatarsals,Foot,,Five elongated bones which form the front of the instep and ball of the foot,Long bone
+B,Phalanges,Fingers and toes,,One of the digital bones of the hand or foot of a vertebrate,Long bone
+B,Patella,Knee,,A thick flat triangular movable bone that forms the anterior point of the knee,Sesamoid
+B,Humerus,Upper arm,,The long bone of the upper arm extending from the shoulder to the elbow,Long bone
+B,Radius,Forearm (thumb side),,The bone on the thumb side of the human forearm,Long bone
+B,Ulna,Forearm (pinky side),,The bone on the little-finger side of the human forearm,Long bone
+B,Carpals,Wrists,,The bones of the wrist,Short bone
+B,Metacarpals,Hand,,The bones of the hand between the carpus and the phalanges,Long bone
+B,Cranium,Head/Skull,,The part of the skull that encloses the brain,Flat bone
+B,Ribcage,Upper-mid body,,The bony enclosing wall of the chest consisting of the ribs and connecting structures,Flat bone
+B,Sternum,Upper body (chest),,The flat bone that articulates with the clavicles and the first seven pairs of ribs,Flat bone
+B,Scapula,Upper back,,Pair of large triangular bones forming the principal bone of the shoulder girdle,Flat bone
+B,Ilium,Hip,,"The broad, upper, and largest of the three principal bones of the pelvis",Irregular bone
+B,Vertebra,Back (skull to lower back),,One of the bony segments composing the spinal column,Irregular bone
+B,Ischium,Lower hip/pelvis,,The lower and posterior of the three principal bones of the pelvis,Irregular bone
